@@ -2,6 +2,7 @@
 The Haltech uC-10 dash for Assetto Corsa utilizing CSP. Initially created by MetalRoachTwo for T-Pain in the RTR Convertible Formula Drift Mustang.
 T-Pain, Nappy Boy Gaming, and MetalRoachTwo wanted to release it to the people to see the wild and crazy digital set ups others could create.
 
+The scripting and modivation for this project was based off of https://github.com/Blumlaut project of the ECUMaster ADU digital dash https://github.com/Blumlaut/ac-adu-dash for Assetto Corsa
 
 
 ## Features
@@ -11,7 +12,7 @@ uc10-dash features 1 dash currently in version 1.0 but will be customizable allo
 
 ## Requirements
 
-uc10-dash expects a CSP Version above or equal to 1.76. 
+uc10-dash requires a CSP Version minumum of 1.76.
 
 
 ## Installation
