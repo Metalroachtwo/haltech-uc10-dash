@@ -8,7 +8,7 @@ The scripting and modivation for this project was based off of https://github.co
 ## Features
 
 uc10-dash features 1 dash currently in version 1.0 but will be customizable allowing up to 5 custom dash layouts that you can switch between in game just like the IRL version
-- all of the Haltech Dash Backgrounds have already been converted and are available within the ExtraScreens folder. If you ever want to learn or teach yourself LUA scripting I will be providing extra documentation to set up or modify different screen options in a later version
+- all of the Haltech Dash Backgrounds have already been converted and will be available within the ExtraScreens folder of the next update. If you ever want to learn or teach yourself LUA scripting I will be providing extra documentation to set up or modify different screen options in a later version
 
 ## Requirements
 
