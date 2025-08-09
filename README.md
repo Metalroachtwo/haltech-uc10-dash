@@ -32,8 +32,8 @@ SCALE = 1.23, 1.23, 1.23    ; change size: X, Y and Z axis (for car, X is normal
 ROTATION = 180,-5 , 0  ; rotate: heading, pitch and roll, in degress
 OFFSET = 0, 0, -.025  ; move: X, Y and Z axis, in meters
 
-## Extract the "Extension" folder into the car folder of your choice
-This will add the asset folder, KN5, ini, and lua scripts to the cars Extension folder
+## Place the Assets folder, uc10.ini, uc10_display.lua, and Haltech_uc10.kn5 into the cars extension folder
+All the above mentioned files must be in the extension folder of the car to work correctly
 
 
 ## Usage
