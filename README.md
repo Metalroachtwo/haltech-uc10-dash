@@ -1,4 +1,4 @@
-# haltech-uC10-dash for Assetto Corsa
+# haltech-uc10-dash for Assetto Corsa
 The Haltech uC-10 dash for Assetto Corsa utilizing CSP. Initially created by MetalRoachTwo for T-Pain in the RTR Convertible Formula Drift Mustang.
 T-Pain, Nappy Boy Gaming, and MetalRoachTwo wanted to release it to the people to see the wild and crazy digital set ups others could create.
 
@@ -16,7 +16,7 @@ uc10-dash expects a CSP Version above or equal to 1.76.
 
 ## Installation
 
-Due to uc10-dash's build design, it can be added to ALL cars by editing the `ext_config.ini`, here is an example for the T-Pain's RTR Vert:
+The uc10-dash's build design allows it to be added ALL cars by editing the `ext_config.ini`, here is an example for the T-Pain's RTR Vert:
 
 ## In ext_config.ini
 [INCLUDE: uc10.ini]
@@ -26,9 +26,9 @@ Due to uc10-dash's build design, it can be added to ALL cars by editing the `ext
 ACTIVE = 1 ; change to 1 to enable
 FILE = mm_tpain_picklerick.kn5 ; you can find the name of the car kn5 in the folder of your car.
 INSERT = Haltech_ic7.kn5
-INSERT_IN = gauges ; insert it in cockpit
+INSERT_IN = gauges ; insert it in cockpit (or dummy/node for the location of the mod
 ; Options to transform inserted model:
-SCALE = 1.23, 1.23, 1.23    ; change size: X, Y and Z axis (for car, X is left-right, Y and up-down)
+SCALE = 1.23, 1.23, 1.23    ; change size: X, Y and Z axis (for car, X is normally left-right, Y is up-down, and Z is front to back - depending on the axis orientaion of the dummy/node you attached the mod to will determine the actual movement in game)
 ROTATION = 180,-5 , 0  ; rotate: heading, pitch and roll, in degress
 OFFSET = 0, 0, -.025  ; move: X, Y and Z axis, in meters
 
